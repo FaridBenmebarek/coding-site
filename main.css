@@ -423,6 +423,14 @@ Portfolio
     background: var(--darkGrey);
 }
 
+.portfolio {
+    color: var(--mainGrey);
+}
+
+.line {
+    border: 3px solid var(--mainGrey);
+}
+
 .work {
     position: relative;
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
